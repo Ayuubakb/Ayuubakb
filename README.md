@@ -1,5 +1,39 @@
 # 💫 About Me:
-👋 Hi! I’m a software engineering student with a strong foundation in both backend and frontend development.<br><br>💻 Tech Skills<br><br>Proficient in ReactJS, PHP, NodeJS and Spring Boot<br>Experienced with SQL and NoSQL databases<br>🔧 Development Stack<br><br>Skilled in version control with Git<br>Familiar with Docker for containerization<br>Implemented CI/CD pipelines to automate testing and ensure fast, reliable delivery<br>🤝 Teamwork & Project Management<br><br>Hands-on experience working in team environments, honing my skills in collaboration and project management
+Here's a refined and styled version of your GitHub profile README content:
+
+---
+
+# 👋 Hi there! 
+
+I'm a **Software Engineering Student** with a solid foundation in both **backend** and **frontend** development. Passionate about building efficient and impactful solutions.
+
+---
+
+### 💻 Tech Skills
+
+- **Languages & Frameworks:**  
+  - Proficient in **ReactJS**, **PHP**, **NodeJS**, and **Spring Boot**
+- **Databases:**  
+  - Experienced with **SQL** and **NoSQL** databases
+
+---
+
+### 🔧 Development Stack
+
+- Skilled in **version control** with **Git**
+- Familiar with **Docker** for containerization
+- Implemented **CI/CD pipelines** to automate testing and ensure fast, reliable delivery
+
+---
+
+### 🤝 Teamwork & Project Management
+
+- Hands-on experience in **team environments**
+- Developed strong skills in **collaboration** and **project management**
+
+---
+
+This layout will keep your profile clean, organized, and easy to read while adding some personality! 🎉 Let me know if you’d like any further tweaks.
 
 
 ## 🌐 Socials:
