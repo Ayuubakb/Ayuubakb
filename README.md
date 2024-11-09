@@ -1,7 +1,4 @@
 # 💫 About Me:
-Here's a refined and styled version of your GitHub profile README content:
-
----
 
 # 👋 Hi there! 
 
