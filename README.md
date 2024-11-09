@@ -30,8 +30,6 @@ I'm a **Software Engineering Student** with a solid foundation in both **backend
 
 ---
 
-This layout will keep your profile clean, organized, and easy to read while adding some personality! 🎉 Let me know if you’d like any further tweaks.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ayoubakb/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ayoub-akoubri) 
